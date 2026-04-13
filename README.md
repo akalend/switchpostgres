@@ -1,2 +1,2 @@
 # switchpostgres
-scrip switch postgres version
+Simple script for switch postgres version
